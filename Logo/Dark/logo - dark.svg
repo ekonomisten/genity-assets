@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo - dark.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="3840.0px"
+   height="2160.0px"
+   viewBox="0 0 3840.0 2160.0"
+   version="1.1"
+   id="SVGRoot">
+  <defs
+     id="defs1402" />
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="22"
+     inkscape:window-x="-8"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="927.38198"
+     inkscape:cx="1660.2752"
+     inkscape:zoom="0.24748737"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1405">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Lager 1">
+    <text
+       id="text1978"
+       y="1333.4014"
+       x="602.0509"
+       style="font-size:826.667px;line-height:1333.33px;font-family:'Gloss And Bloom';-inkscape-font-specification:'Gloss And Bloom';word-spacing:0px"
+       xml:space="preserve"><tspan
+         dx="0 -20 -20 -20 -20 -20"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:826.667px;font-family:Gilroy;-inkscape-font-specification:'Gilroy Ultra-Bold'"
+         y="1333.4014"
+         x="602.0509"
+         id="tspan1976"
+         sodipodi:role="line"><tspan
+           id="tspan1984"
+           style="fill:#020202;fill-opacity:1">Genity</tspan><tspan
+           dx="-100"
+           id="tspan1980"
+           style="fill:#00ffb1;fill-opacity:1">.</tspan></tspan></text>
+  </g>
+</svg>
